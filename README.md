@@ -9,7 +9,7 @@
 A simple CLI tool for maintainers to set up [npm Trusted Publisher](https://github.com/e18e/ecosystem-issues/issues/201) easier for monorepo with a lot of packages.
 
 > [!TIP]
-> It's recommended to be used accompanied with [sxzz's npm trusted publisher auto-filler user script](https://github.com/sxzz/userscripts/raw/refs/heads/main/dist/npm-trusted-publisher.user.js).
+> It's recommended to be used accompanied with [sxzz's npm trusted publisher auto-filler user script](https://github.com/sxzz/userscripts/blob/main/src/npm-trusted-publisher.md).
 
 ```bash
 npx open-packages-on-npm
