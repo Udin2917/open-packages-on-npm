@@ -1,7 +1,7 @@
 {
   "name": "open-packages-on-npm",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@10.17.1",
   "description": "Open all packages in a monorepo on npm",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
